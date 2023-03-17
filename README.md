@@ -14,6 +14,7 @@ Anforderungen
     esp8266 Microcontroller
     LCD Display
     Webinterface zur Einstellung der Füllmenge
+    LiquidCrystal_i2c Libary
 
 Umsetzung
 
