@@ -7,13 +7,13 @@ Dieses Projekt erfordert technische Kenntnisse im Bereich Modifikation und Elekt
 Die Füllmenge der Gläser ist über ein webinterface einstellbar und der Füllstand sowie die bisherige Betriebsdauer sollen auf einem LCD Display angezeigt werden. Der esp8266 wird als Microcontroller verwendet.
 Anforderungen
 
-    Bruder Claas Jaguar Modell
-    Pumpe
-    Servo
-    Schalter
-    esp8266 Microcontroller
-    LCD Display
-    Webinterface zur Einstellung der Füllmenge
+Bruder Claas Jaguar Modell
+Pumpe
+Servo
+Schalter
+esp8266 Microcontroller
+LCD Display
+Webinterface zur Einstellung der Füllmenge
 
 Umsetzung
 
