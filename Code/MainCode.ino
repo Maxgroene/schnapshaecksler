@@ -4,7 +4,7 @@
 
 // Fürs WIFI
 const char* ssid = "Schnapshäcksler";
-const char* password = "Penisbirne123";
+const char* password = "12345678";
 const int channel = 10;  // WiFi Channel number between 1 and 13
 const bool hide_SSID = false;
 const int max_connection = 1;
