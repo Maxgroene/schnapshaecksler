@@ -2,8 +2,6 @@ Projektbeschreibung: Schnapsglas-Befüllung mit modifiziertem Bruder Claas Jagua
 
 Dieses Projekt beinhaltet die Modifikation eines Bruder Claas Jaguar Modells, um Schnapsgläser mithilfe einer Pumpe und eines Servos zu befüllen. Die Gläser stehen rund um den Häcksler verteilt und werden durch einen Schalter erkannt. Der Arm des Häckslers schwenkt dann aus und füllt das ausgewählte Glas mithilfe der Pumpe mit dem gewünschten Schnaps.
 
-Dieses Projekt erfordert technische Kenntnisse im Bereich Modifikation und Elektronik. Eine detaillierte Anleitung zur Umsetzung dieses Projekts ist nicht Teil dieser Beschreibung.
-
 Die Füllmenge der Gläser ist über ein webinterface einstellbar und der Füllstand sowie die bisherige Betriebsdauer sollen auf einem LCD Display angezeigt werden. Der esp8266 wird als Microcontroller verwendet.
 Anforderungen
 
