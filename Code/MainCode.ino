@@ -3,7 +3,7 @@
 #include <WiFi.h>
 
 // Fürs WIFI
-const char* ssid = "Schnapshäcksler";
+const char* ssid = "Schnapshaecksler";
 const char* password = "12345678";
 const int channel = 10;  // WiFi Channel number between 1 and 13
 const bool hide_SSID = false;
